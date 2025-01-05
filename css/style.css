@@ -83,6 +83,23 @@ body{
     height: 427.35px;
     top: 3939px;
     left: 137px;
+    background-color: #EBEEF3;
+    position: absolute;
+}
+
+
+.h1-7{
+    width: 614px;
+    height: 120px;
+    top: 4065px;
+    left: 205px;
+}
+
+.form-inline{
+    width: 514px;
+    height: 58px;
+    top: 4228.35px;
+    left: 205px;
 }
 
 .btn-toolbar-1{
