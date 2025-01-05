@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body{
     width: 1440px;
     height: 4546px;
@@ -80,5 +85,20 @@ body{
     left: 137px;
 }
 
+.btn-toolbar-1{
+    width: 187.31px;
+    height: 48.13px;
+    top: 4415px;
+    left: 139.02px;
+    position: absolute;
+}
+
+.btn-toolbar-2{
+    width: 470px;
+    height: 60px;
+    top: 4409px;
+    left: 835px;
+    position: absolute;
+}
 
 
