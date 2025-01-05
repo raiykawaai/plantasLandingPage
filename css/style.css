@@ -10,10 +10,74 @@ body{
 .header-menu{
     width: 1440px;
     height: 92px;
+    margin: 0;
+}
+
+.header-menu a{
+    color: #FFFFFF;
 }
 
 .navbar-brand{
     font-family: 'Courier New', Courier, monospace;
+}
+
+.div-main-1{
+    width: 1383px;
+    height: 683px;
+    top: 112px;
+    left: -78px;
+}
+
+
+.div-child-main-1{
+    width: 716px;
+    height: 513px;
+    top: 112px;
+    left: -78px;
+    opacity: 8%;
+    mix-blend-mode: lighten;
+    
+}
+
+.div-main-2{
+    width: 1170px;
+    height: 488px;
+    top: 875px;
+    left: 135px;
+}
+
+.div-main-3{
+    width: 1170px;
+    height: 609px;
+    top: 1443px;
+    left: 135px;
+}
+
+.div-main-4{
+    width: 1383px;
+    height: 618px;
+    top: 2132px;
+    left: 136px;
+}
+
+.div-main-5{
+    width: 1170px;
+    height: 354px;
+    top: 2830px;
+    left: 135px;
+}
+.div-main-6{
+    width: 1170px;
+    height: 643px;
+    top: 3256px;
+    left: 135px;
+}
+
+.div-main-7{
+    width: 1168px;
+    height: 427.35px;
+    top: 3939px;
+    left: 137px;
 }
 
 
