@@ -76,6 +76,12 @@ body{
     height: 643px;
     top: 3256px;
     left: 135px;
+    position: absolute;
+}
+
+.card-img-top-div6-1{
+    width: 370px;
+    height: 248px;
 }
 
 .div-main-7{
