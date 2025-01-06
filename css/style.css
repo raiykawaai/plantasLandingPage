@@ -63,6 +63,17 @@ body{
     height: 618px;
     top: 2132px;
     left: 136px;
+    
+}
+
+.h5-carousel-1{
+    font-size: 36px;
+    border: solid;
+}
+
+
+.p-carousel-1{
+    font-size: 20px;
 }
 
 .container-main-5{
@@ -70,6 +81,7 @@ body{
     height: 354px;
     top: 2830px;
     left: 135px;
+    position: absolute;
 }
 
 .card-title-div5-h-1{
@@ -134,6 +146,10 @@ body{
     height: 58px;
     top: 4228.35px;
     left: 205px;
+}
+
+footer{
+    bottom: 0;
 }
 
 .btn-toolbar-1{
