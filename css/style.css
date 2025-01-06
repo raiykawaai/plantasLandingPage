@@ -26,7 +26,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
-.div-main-1{
+.container-main-1{
     width: 1383px;
     height: 683px;
     top: 112px;
@@ -44,34 +44,62 @@ body{
     
 }
 
-.div-main-2{
+.container-main-2{
     width: 1170px;
     height: 488px;
     top: 875px;
     left: 135px;
 }
 
-.div-main-3{
+.container-main-3{
     width: 1170px;
     height: 609px;
     top: 1443px;
     left: 135px;
 }
 
-.div-main-4{
+.container-main-4{
     width: 1383px;
     height: 618px;
     top: 2132px;
     left: 136px;
 }
 
-.div-main-5{
+.container-main-5{
     width: 1170px;
     height: 354px;
     top: 2830px;
     left: 135px;
 }
-.div-main-6{
+
+.card-title-div5-h-1{
+    font-size: 28px;
+}
+.card-title-div5-h-2{
+    padding: 12px;
+}
+
+.card-title-div5-h-3{
+    font-size: 28px;
+}
+
+.card-title-main-5-1{
+    font-size: 16px;
+}
+
+.card-title-div5-1{
+    font-size: 16px;
+}
+
+.card-title-div5-2{
+    font-size: 16px;
+}
+
+.card-title-div5-3{
+    font-size: 16px;
+}
+
+.container-main-6{
     width: 1170px;
     height: 643px;
     top: 3256px;
@@ -84,7 +112,7 @@ body{
     height: 248px;
 }
 
-.div-main-7{
+.container-main-7{
     width: 1168px;
     height: 427.35px;
     top: 3939px;
